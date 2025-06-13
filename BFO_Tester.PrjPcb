@@ -101,59 +101,63 @@ GenerateClassCluster=0
 DocumentUniqueId=PYSJQUTX
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for BFO_Tester\PCB1.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for BFO_Tester\PCB1.EXTREP
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for BFO_Tester\PCB1.G1
+DItemRevisionGUID=
+
 [GeneratedDocument3]
-DocumentPath=Project Outputs for BFO_Tester\PCB1.GBL
+DocumentPath=Project Outputs for BFO_Tester\PCB1.G2
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for BFO_Tester\PCB1.GBO
+DocumentPath=Project Outputs for BFO_Tester\PCB1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for BFO_Tester\PCB1.GBP
+DocumentPath=Project Outputs for BFO_Tester\PCB1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for BFO_Tester\PCB1.GBS
+DocumentPath=Project Outputs for BFO_Tester\PCB1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for BFO_Tester\PCB1.GM
+DocumentPath=Project Outputs for BFO_Tester\PCB1.GBR1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for BFO_Tester\PCB1.GTL
+DocumentPath=Project Outputs for BFO_Tester\PCB1.GBR2
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for BFO_Tester\PCB1.GTO
+DocumentPath=Project Outputs for BFO_Tester\PCB1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for BFO_Tester\PCB1.GTP
+DocumentPath=Project Outputs for BFO_Tester\PCB1.GM
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for BFO_Tester\PCB1.GTS
+DocumentPath=Project Outputs for BFO_Tester\PCB1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for BFO_Tester\PCB1.LDP
+DocumentPath=Project Outputs for BFO_Tester\PCB1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for BFO_Tester\PCB1.REP
+DocumentPath=Project Outputs for BFO_Tester\PCB1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for BFO_Tester\PCB1.TXT
+DocumentPath=Project Outputs for BFO_Tester\PCB1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for BFO_Tester\PCB1.REP
 DItemRevisionGUID=
 
 [Configuration1]
@@ -462,6 +466,10 @@ OutputName5=Gerber X2 Files
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
+Configuration5_Name1=ForceUpdateSettings
+Configuration5_Item1=False
+Configuration5_Name2=OutputConfigurationParameter1
+Configuration5_Item2=BoardID=PYSJQUTX|FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=True|MergePadAndRegion=False|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|OutputFormat=Different|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotCounterHolesPairs=False|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_Checked=True|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_FileName= |PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_Checked=True|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_FileName= |PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False|UncheckPlotDrillDrawingPair0_Backdrill=False|UncheckPlotDrillDrawingPair0_Checked=False|UncheckPlotDrillDrawingPair0_DrillType=Regular|UncheckPlotDrillDrawingPair0_FileName= |UncheckPlotDrillDrawingPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingPair0_LowLayer=Top Layer|UncheckPlotDrillGuidePair0_Backdrill=False|UncheckPlotDrillGuidePair0_Checked=False|UncheckPlotDrillGuidePair0_DrillType=Regular|UncheckPlotDrillGuidePair0_FileName= |UncheckPlotDrillGuidePair0_HighLayer=Bottom Layer|UncheckPlotDrillGuidePair0_LowLayer=Top Layer|DocumentPath=D:\Altium Designer\Project\Other\BFO_Tester\PCB1.PcbDoc
 OutputType6=ODB
 OutputName6=ODB++ Files
 OutputDocumentPath6=
